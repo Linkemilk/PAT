@@ -40,5 +40,5 @@ void main ()
       printf("%c",ch);  
     }   
       printf("\n"); 
-    }
   }
+}
